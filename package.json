@@ -1,0 +1,28 @@
+{
+	"name": "emberjs-sass-grunt-starter-kit",
+	"version": "0.0.1",
+	"title": "Ember.js SASS Grunt Starter Kit",
+	"dependencies": {},
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-copy": "~0.4.1",
+		"grunt-contrib-uglify": "~0.2.1",
+		"grunt-contrib-watch": "~0.4.3",
+		"grunt-contrib-compass": "~0.5.0",
+		"grunt-contrib-jshint": "~0.5.4",
+		"grunt-contrib-imagemin": "~0.1.4",
+		"grunt-contrib-cssmin": "~0.6.0",
+		"grunt-contrib-concat": "~0.3.0",
+		"grunt-contrib-clean": "~0.5.0",
+		"grunt-contrib-connect": "~0.3.0",
+		"grunt-ember-templates": "0.4.14",
+		"grunt-ftp-deploy": "0.0.9",
+		"grunt-neuter": "~0.5.0",
+		"grunt-notify": "~0.2.7",
+		"grunt-open": "~0.2.0",
+		"matchdep": "~0.1.2",
+	},
+	"engines": {
+		"node": ">=0.8.0"
+	}
+}

@@ -1,2 +1,2 @@
-ember-grunt-starter-kit
-=======================
+Ember.js SASS Grunt Starter Kit
+===============================
